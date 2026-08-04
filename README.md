@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
