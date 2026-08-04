@@ -8,6 +8,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -47,4 +48,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
