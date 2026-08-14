@@ -36,6 +36,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
