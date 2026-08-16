@@ -8,6 +8,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions .
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions .
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
