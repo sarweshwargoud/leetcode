@@ -25,6 +25,7 @@ A collection of LeetCode questions .
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
