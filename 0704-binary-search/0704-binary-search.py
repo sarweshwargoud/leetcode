@@ -5,6 +5,9 @@ class Solution:
         low=0
         high=len(nums)-1
 
+        if target < nums[low] or target > nums[high]:
+            return -1
+
         while low<=high:
             mid=(low+high)//2
             if target==nums[mid]:
