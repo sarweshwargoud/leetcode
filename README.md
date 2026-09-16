@@ -11,6 +11,7 @@ A collection of LeetCode questions .
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarweshwargoud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sarweshwargoud/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarweshwargoud/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/sarweshwargoud/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -95,9 +97,11 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarweshwargoud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -148,6 +152,7 @@ A collection of LeetCode questions .
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -192,4 +197,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarweshwargoud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
