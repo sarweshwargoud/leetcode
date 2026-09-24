@@ -11,6 +11,7 @@ A collection of LeetCode questions .
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarweshwargoud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
@@ -213,5 +215,6 @@ A collection of LeetCode questions .
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
