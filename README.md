@@ -120,12 +120,14 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
