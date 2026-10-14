@@ -133,6 +133,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarweshwargoud/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sarweshwargoud/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -231,12 +232,14 @@ A collection of LeetCode questions .
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarweshwargoud/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarweshwargoud/leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Trie
 |  |
