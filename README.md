@@ -26,6 +26,7 @@ A collection of LeetCode questions .
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarweshwargoud/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarweshwargoud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarweshwargoud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions .
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/sarweshwargoud/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarweshwargoud/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
