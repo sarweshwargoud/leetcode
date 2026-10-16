@@ -59,6 +59,7 @@ A collection of LeetCode questions .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions .
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions .
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/sarweshwargoud/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarweshwargoud/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
