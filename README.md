@@ -153,6 +153,7 @@ A collection of LeetCode questions .
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Segment Tree
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -274,4 +276,12 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
