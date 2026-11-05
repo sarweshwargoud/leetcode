@@ -42,6 +42,7 @@ A collection of LeetCode questions .
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarweshwargoud/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions .
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarweshwargoud/leetcode/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarweshwargoud/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
@@ -284,4 +286,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sarweshwargoud/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
