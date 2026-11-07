@@ -23,6 +23,7 @@ A collection of LeetCode questions .
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/sarweshwargoud/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sarweshwargoud/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1882-process-tasks-using-servers](https://github.com/sarweshwargoud/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sarweshwargoud/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
