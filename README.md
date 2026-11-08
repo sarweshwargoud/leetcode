@@ -19,6 +19,7 @@ A collection of LeetCode questions .
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarweshwargoud/leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/sarweshwargoud/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/sarweshwargoud/leetcode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Nim Game
@@ -224,6 +226,7 @@ A collection of LeetCode questions .
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarweshwargoud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -233,10 +236,12 @@ A collection of LeetCode questions .
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarweshwargoud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarweshwargoud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -292,4 +297,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarweshwargoud/leetcode/tree/master/0002-add-two-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
