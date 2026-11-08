@@ -147,6 +147,7 @@ A collection of LeetCode questions .
 | [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/sarweshwargoud/leetcode/tree/master/0520-detect-capital) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
