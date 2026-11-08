@@ -48,6 +48,7 @@ A collection of LeetCode questions .
 | [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions .
 | [0345-reverse-vowels-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/sarweshwargoud/leetcode/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions .
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarweshwargoud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
