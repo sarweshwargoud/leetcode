@@ -11,6 +11,7 @@ A collection of LeetCode questions .
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sarweshwargoud/leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarweshwargoud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarweshwargoud/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions .
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarweshwargoud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Boyer–Moore Majority Vote Algorithm
