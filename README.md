@@ -16,6 +16,7 @@ A collection of LeetCode questions .
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarweshwargoud/leetcode/tree/master/0704-binary-search) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions .
 | [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions .
 | [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sarweshwargoud/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/sarweshwargoud/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sarweshwargoud/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
