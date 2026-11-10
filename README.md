@@ -51,6 +51,7 @@ A collection of LeetCode questions .
 | [0009-palindrome-number](https://github.com/sarweshwargoud/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sarweshwargoud/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarweshwargoud/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sarweshwargoud/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sarweshwargoud/leetcode/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarweshwargoud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sarweshwargoud/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
