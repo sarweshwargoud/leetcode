@@ -102,6 +102,7 @@ A collection of LeetCode questions .
 | [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/sarweshwargoud/leetcode/tree/master/0771-jewels-and-stones) |
 | [1386-cinema-seat-allocation](https://github.com/sarweshwargoud/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions .
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/sarweshwargoud/leetcode/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
+| [0771-jewels-and-stones](https://github.com/sarweshwargoud/leetcode/tree/master/0771-jewels-and-stones) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sarweshwargoud/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
