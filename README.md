@@ -14,6 +14,7 @@ A collection of LeetCode questions .
 | [0048-rotate-image](https://github.com/sarweshwargoud/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sarweshwargoud/leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/sarweshwargoud/leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarweshwargoud/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sarweshwargoud/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarweshwargoud/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/sarweshwargoud/leetcode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
