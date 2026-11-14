@@ -37,6 +37,7 @@ A collection of LeetCode questions .
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarweshwargoud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarweshwargoud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarweshwargoud/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarweshwargoud/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarweshwargoud/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions .
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarweshwargoud/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/sarweshwargoud/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
