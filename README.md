@@ -25,6 +25,7 @@ A collection of LeetCode questions .
 | [1267-count-servers-that-communicate](https://github.com/sarweshwargoud/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/sarweshwargoud/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sarweshwargoud/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/sarweshwargoud/leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions .
 | [0189-rotate-array](https://github.com/sarweshwargoud/leetcode/tree/master/0189-rotate-array) |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sarweshwargoud/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions .
 | [0053-maximum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sarweshwargoud/leetcode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/sarweshwargoud/leetcode/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sarweshwargoud/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions .
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sarweshwargoud/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/sarweshwargoud/leetcode/tree/master/3904-smallest-stable-index-ii) |
