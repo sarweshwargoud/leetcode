@@ -330,4 +330,8 @@ A collection of LeetCode questions .
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sarweshwargoud/leetcode/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sarweshwargoud/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
