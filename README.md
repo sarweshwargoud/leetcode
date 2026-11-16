@@ -171,6 +171,7 @@ A collection of LeetCode questions .
 | [1927-sum-game](https://github.com/sarweshwargoud/leetcode/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sarweshwargoud/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarweshwargoud/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sarweshwargoud/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarweshwargoud/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions .
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/sarweshwargoud/leetcode/tree/master/0537-complex-number-multiplication) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sarweshwargoud/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sarweshwargoud/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarweshwargoud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
