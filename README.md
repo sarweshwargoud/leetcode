@@ -36,6 +36,7 @@ A collection of LeetCode questions .
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sarweshwargoud/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarweshwargoud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarweshwargoud/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarweshwargoud/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarweshwargoud/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sarweshwargoud/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions .
 | [1563-stone-game-v](https://github.com/sarweshwargoud/leetcode/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/sarweshwargoud/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/sarweshwargoud/leetcode/tree/master/1872-stone-game-viii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarweshwargoud/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Minimax
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions .
 | [0349-intersection-of-two-arrays](https://github.com/sarweshwargoud/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/sarweshwargoud/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarweshwargoud/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sarweshwargoud/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/sarweshwargoud/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
